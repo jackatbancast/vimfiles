@@ -7,8 +7,8 @@ Install
 
 To Install simply run the following
 
-    $ git clone git@github.com:jackatbancast/vimfiles.git .vim
-    $ ln -s .vim/config .vimrc 
+    $ git clone git@github.com:jackatbancast/vimfiles.git ~/.vim
+    $ ln -s ~/.vim/config ~/.vimrc 
 
 
 License
